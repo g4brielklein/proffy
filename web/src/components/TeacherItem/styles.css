@@ -9,7 +9,7 @@
 .teacher-item header {
     padding: 3.2rem 2rem;
     display: flex;
-    align-items: center;
+    align-items: center; 
 }
 
 .teacher-item header img {
