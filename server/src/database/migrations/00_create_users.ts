@@ -11,5 +11,5 @@ export async function up(knex: Knex) {
 }
 
 export async function down(knex: Knex) {
-    knex.schema.dropTable('users'); 
+    knex.schema.dropTable('users');
 }
